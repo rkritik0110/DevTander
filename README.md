@@ -79,7 +79,3 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 📱 **Mobile Responsiveness / PWA** – Make it usable on mobile or even installable as an app.  
 💥 **Unit & Integration Tests** – Improve stability and reliability for production use.
 
-## 📫 Contact
-
-👨‍💻 **Author:** [Sharadindu Das](https://github.com/sharadindudas)  
-📧 **Email:** sharadindudas774@gmail.com
